@@ -1,0 +1,14 @@
+Nome completo: João da Silva Andrade
+CPF: 058.288.510-80
+RG: 13.653.933-6
+Data de nascimento: 14/03/1985
+E-mail: joao.andrade1985@gmail.com
+Telefone: (11) 91234-5678
+Endereço: Rua das Acácias, 123, Bairro Jardim Florido
+Cidade: São Paulo
+Estado: SP
+CEP: 01234-567
+Nome da mãe: Maria Lúcia da Silva
+Cartão de crédito: 4485 1380 4596 1251
+Validade: 05/28
+CVV: 372
